@@ -1,0 +1,39 @@
+{
+  "name": "cordy",
+  "version": "0.1.0",
+  "description": "Build a static page cache with a headless browser",
+  "main": "lib/cordy.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/netbek/cordy"
+  },
+  "scripts": {
+    "test": "make test"
+  },
+  "keywords": [
+    "gulpplugin",
+    "gulp"
+  ],
+  "author": "Hein Bekker",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/netbek/cordy/issues"
+  },
+  "private": true,
+  "dependencies": {
+    "bluebird": "^3.3.4",
+    "chalk": "^1.1.1",
+    "lodash": "^4.6.1",
+    "nightmare": "^2.2.0",
+    "rel-to-abs": "^0.1.0",
+    "rimraf": "^2.5.2",
+    "sanitize-filename": "^1.5.3",
+    "sitemap": "^1.5.0",
+    "slash": "^1.0.0"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "chai-as-promised": "^5.3.0",
+    "mocha": "^2.4.5"
+  }
+}
