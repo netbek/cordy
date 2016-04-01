@@ -23,6 +23,7 @@
   "dependencies": {
     "bluebird": "^3.3.4",
     "chalk": "^1.1.1",
+    "glob": "^7.0.3",
     "lodash": "^4.6.1",
     "mkdirp": "^0.5.1",
     "nightmare": "^2.2.0",
