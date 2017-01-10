@@ -26,7 +26,7 @@
     "glob": "^7.0.3",
     "lodash": "^4.6.1",
     "mkdirp": "^0.5.1",
-    "nightmare": "^2.2.0",
+    "nightmare": "2.2.0",
     "rel-to-abs": "^0.1.0",
     "rimraf": "^2.5.2",
     "sanitize-filename": "^1.5.3",
